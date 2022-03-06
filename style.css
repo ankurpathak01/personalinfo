@@ -1,0 +1,27 @@
+body{
+  background-color: #EAF6F6;
+}
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h1{
+  color: #DFFF00
+}
+h3{
+  color: #FF7F50
+}
+img:hover{
+  background-color: gold;
+}
+.star{
+  background-color: red;
+}
+.heart{
+  background-color: green;
+}
+#work{
+  color: #000000;
+}
